@@ -12,9 +12,9 @@ sidebar:
   avatar: escudo.png # No modificar
 
   # Actualiza tus datos de contacto
-  email: willianeduardocg13@gmail.com.com
-  linkedin: www.linkedin.com/in/WillianEduardocg
-  github: https://github.com/willcab
+  email: willianeduardocg13@gmail.com
+  linkedin: WillianEduardocg
+  github: willcab
   twitter: "@BrightCoders"
   # Actualiza según los idiomas y nieles que tienes. Agrega o Elimina según sea necesario.
   languages:
@@ -44,7 +44,7 @@ career-profile:
 # Registra aquí tus estudios. Agrega o elimina según sea necesario
 educationcomplete:
   - degree: software technology engineering
-    university: Universidad Autonoma de Campeche (UACam)
+    university: Universidad Autonoma de Campeche (UACAM)
     time: 2018 - 2022
     details: |
       Unsupervised deep learning for automatic behavior analysis
@@ -75,15 +75,17 @@ projects:
   assignments:
     - title: To Do list
       link: "https://github.com/willcab/To-Do-list"
-      tagline: "a to-do list that allows you to create new items and move them between sections"
+      tagline: "A to-do list that allows you to create new items and move them between sections"
 
     - title: Chat laravel
       link: "https://github.com/willcab/chat"
-      tagline: "application that allows you to enter rooms and send and receive messages in real time."
+      tagline: |
+        "Application that allows you to enter rooms and send and receive messages in real time."
 
     - title: RescuePet
       link: "https://github.com/kodikasdev/RescuePet"
-      tagline: "web application for use by veterinarians or animal shelters to keep track of animals."
+      tagline: |
+        "Web application for use by veterinarians or animal shelters to keep track of animals."
 
     - title: Atom
       link: "#"
@@ -106,16 +108,28 @@ skills:
     - name: JavaScript
       level: 20%
 
+    - name: WorkFlow technologies
+      level: 20%
+
+    - name: SpringBoot
+      level: 20%
+
+    - name: Frontend technologies
+      level: 20%
+
+    - name: Laravel
+      level: 30%
+
+    - name: Ruby
+      level: 40%
+
     - name: RoR
       level: 40%
 
     - name: Java
-      level: 60%
+      level: 40%
 
-    - name: PHP
-      level: 80%
-
-    - name: C/C++
+    - name: Backend technologies
       level: 40%
 
 # NO MODIFICAR
