@@ -47,17 +47,7 @@ educationcomplete:
     university: Universidad Autonoma de Campeche (UACAM)
     time: 2018 - 2022
     details: |
-      Unsupervised deep learning for automatic behavior analysis
-
-        - Unsupervised learning
-        - Representaion learning
-        - Automatic Behavior Analysis
-
-  - degree: Bachelor Degree
-    university: Politecnico di Torino (Torino, Italy)
-    time: 2009 - 2012
-    details: |
-      Master degree in Computer Engineering
+      In addition to obtaining the basics of computing, I gained knowledge of the planning and development of software, as well as the basics of recent technologies such as Big Data, Artificial Intelligence and parallel and distributed computing.
 
 # Registra aquí tu experiencia. Agrega o elimina según sea necesario
 experiences:
@@ -86,14 +76,6 @@ projects:
       link: "https://github.com/kodikasdev/RescuePet"
       tagline: |
         "Web application for use by veterinarians or animal shelters to keep track of animals."
-
-    - title: Atom
-      link: "#"
-      tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
-
-    - title: Delta
-      link: "#"
-      tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
 
 # Registra aquí tus habilidades técnicas, para level utiliza:
 # 20% para Novice
